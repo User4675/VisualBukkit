@@ -3,7 +3,7 @@
 }
 
 .button {
-    -fx-border-color: black;
+    -fx-border-color: purple;
     -fx-border-radius: 2;
     -fx-focus-traversable: false;
 }
@@ -51,7 +51,7 @@
 }
 
 .separator {
-    -fx-background: gray;
+    -fx-background: purple;
 }
 
 .tab-pane .tab {
@@ -75,20 +75,20 @@
 }
 
 .text-area .content {
-    -fx-background-color: black;
+    -fx-background-color: purple;
 }
 
 .text-field {
-    -fx-border-color: black;
+    -fx-border-color: purple;
     -fx-border-radius: 2;
     -fx-control-inner-background: white;
     -fx-faint-focus-color: transparent;
     -fx-focus-color: transparent;
     -fx-padding: 2 2 2 4;
-    -fx-text-fill: black;
+    -fx-text-fill: purple;
 }
 
 .tooltip {
-    -fx-border-color: lightgray;
+    -fx-border-color: purple;
     -fx-border-radius: 2;
 }
